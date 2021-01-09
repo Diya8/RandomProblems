@@ -45,7 +45,7 @@ YES
 
 The two kangaroos jump through the following sequence of locations:
 
-image
+![image](Capture.JPG)
 
 From the image, it is clear that the kangaroos meet at the same location (number 12 on the number line) after same number of jumps (4 jumps), and we print YES.
 
