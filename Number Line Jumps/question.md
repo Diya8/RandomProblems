@@ -58,3 +58,5 @@ NO
 ## Explanation 1
 
 The second kangaroo has a starting location that is ahead (further to the right) of the first kangaroo's starting location (i.e. x2 > x1 ). Because the second kangaroo moves at a faster rate (meaning v2 > v1) and is already ahead of the first kangaroo, the first kangaroo will never be able to catch up. Thus, we print NO.
+
+Source: [Hackerrank: Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?h_r=next-challenge&h_v=zen)
