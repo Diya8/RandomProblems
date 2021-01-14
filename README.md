@@ -25,3 +25,5 @@ Source: https://www.hackerrank.com/challenges/drawing-book/problem
 Source: https://www.hackerrank.com/challenges/lisa-workbook/problem
 ### 8. [Migratory Birds](Hackerrank-easy/MigratoryBirds.py)
 Source: https://www.hackerrank.com/challenges/migratory-birds/problem
+### 9. [Sequence Equation](Hackerrank-easy/SequenceEquation.py)
+Source: https://www.hackerrank.com/challenges/permutation-equation/problem
