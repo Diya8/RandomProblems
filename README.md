@@ -29,3 +29,5 @@ Source: https://www.hackerrank.com/challenges/migratory-birds/problem
 Source: https://www.hackerrank.com/challenges/permutation-equation/problem
 ### 10. [Jumping on the Clouds: Revisited](Hackerrank-easy/JumpingOnTheClouds.py)
 Source: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
+### 11. [Append and Delete](Hackerrank-easy/AppendAndDelete.py)
+Source: https://www.hackerrank.com/challenges/append-and-delete/problem
