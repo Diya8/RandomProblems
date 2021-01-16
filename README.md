@@ -31,3 +31,5 @@ Source: https://www.hackerrank.com/challenges/permutation-equation/problem
 Source: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
 ### 11. [Append and Delete](Hackerrank-easy/AppendAndDelete.py)
 Source: https://www.hackerrank.com/challenges/append-and-delete/problem
+### 12. [Jumping on the Clouds](Hackerrank-easy/jumping-on-the-clouds.py)
+Source: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
