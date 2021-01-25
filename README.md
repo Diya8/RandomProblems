@@ -8,6 +8,8 @@ Source: https://www.codewars.com/kata/53f40dff5f9d31b813000774/train/python
 ## InterviewBit
 ### 1. [Lexicographically Largest Array](InterviewBit/Lexicographically%20largest%20array)
 Source: [CodeDrift: 2 Pointers by InterviewBit](https://www.interviewbit.com/contest/code-drift-2-pointers/)
+### 2. [Replace with Factors](InterviewBit/Replace%20with%20Factors)
+Source: [CodeDrift: Linked List + Stacks & Queues](https://www.interviewbit.com/contest/codedrift--linked-list---stacks---queues-7cbf/)
 ## Hackerrank - Easy
 ### 1. [Number Line Jumps](Hackerrank-easy/Number%20Line%20Jumps)
 Source: https://www.hackerrank.com/challenges/kangaroo/problem
