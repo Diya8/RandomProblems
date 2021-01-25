@@ -2,6 +2,9 @@
 
 Random problems I solved. Short and sweet!
 
+## Leetcode
+### 1. [Two Sum (Easy)](Leetcode/two-sum.py)
+Source: https://leetcode.com/problems/two-sum/
 ## Codewars - 4 kyu katas
 ### 1. [Recover A String From Random Triplets](Codewars-4kyu/RecoverAStringFromRandomTriplets.py)
 Source: https://www.codewars.com/kata/53f40dff5f9d31b813000774/train/python
