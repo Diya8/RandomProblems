@@ -7,6 +7,8 @@ Random problems I solved. Short and sweet!
 Source: https://leetcode.com/problems/two-sum/
 ### 2. [Add Two Numbers (Medium)](Leetcode/add-two-numbers.py)
 Source: https://leetcode.com/problems/add-two-numbers/
+### 3. [Reverse Integer (Easy)](Leetcode/reverse-integer.py)
+Source: https://leetcode.com/problems/reverse-integer/
 ## Codewars - 4 kyu katas
 ### 1. [Recover A String From Random Triplets](Codewars-4kyu/RecoverAStringFromRandomTriplets.py)
 Source: https://www.codewars.com/kata/53f40dff5f9d31b813000774/train/python
