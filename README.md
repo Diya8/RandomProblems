@@ -11,6 +11,8 @@ Source: https://leetcode.com/problems/add-two-numbers/
 Source: https://leetcode.com/problems/reverse-integer/
 ### 4. [Longest Common Prefix](Leetcode/longest-common-prefix)
 Source: https://leetcode.com/problems/longest-common-prefix/
+### 5. [Merge Two Sorted Lists](Leetocode/merge-two-sorted-lists)
+Source: https://leetcode.com/problems/merge-two-sorted-lists/
 ## Codewars - 4 kyu katas
 ### 1. [Recover A String From Random Triplets](Codewars-4kyu/RecoverAStringFromRandomTriplets.py)
 Source: https://www.codewars.com/kata/53f40dff5f9d31b813000774/train/python
