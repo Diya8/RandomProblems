@@ -9,10 +9,14 @@ Source: https://leetcode.com/problems/two-sum/
 Source: https://leetcode.com/problems/add-two-numbers/
 ### 3. [Reverse Integer (Easy)](Leetcode/reverse-integer.py)
 Source: https://leetcode.com/problems/reverse-integer/
-### 4. [Longest Common Prefix](Leetcode/longest-common-prefix)
+### 4. [Longest Common Prefix (Easy)](Leetcode/longest-common-prefix.py)
 Source: https://leetcode.com/problems/longest-common-prefix/
-### 5. [Merge Two Sorted Lists](Leetocode/merge-two-sorted-lists)
+### 5. [Merge Two Sorted Lists (Easy)](Leetcode/merge-two-sorted-lists.py)
 Source: https://leetcode.com/problems/merge-two-sorted-lists/
+### 6. [Remove Element (Easy)](Leetcode/remove-element.py)
+Source: https://leetcode.com/problems/remove-element/submissions/
+### 7. [Remove Duplicates From Sorted Array](Leetcode/remove-duplicates-from-sorted-array.py)
+Source: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 ## Codewars - 4 kyu katas
 ### 1. [Recover A String From Random Triplets](Codewars-4kyu/RecoverAStringFromRandomTriplets.py)
 Source: https://www.codewars.com/kata/53f40dff5f9d31b813000774/train/python
