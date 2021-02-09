@@ -15,7 +15,7 @@ Source: https://leetcode.com/problems/longest-common-prefix/
 Source: https://leetcode.com/problems/merge-two-sorted-lists/
 ### 6. [Remove Element (Easy)](Leetcode/remove-element.py)
 Source: https://leetcode.com/problems/remove-element/submissions/
-### 7. [Remove Duplicates From Sorted Array](Leetcode/remove-duplicates-from-sorted-array.py)
+### 7. [Remove Duplicates From Sorted Array (Easy)](Leetcode/remove-duplicates-from-sorted-array.py)
 Source: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 ## Codewars - 4 kyu katas
 ### 1. [Recover A String From Random Triplets](Codewars-4kyu/RecoverAStringFromRandomTriplets.py)
