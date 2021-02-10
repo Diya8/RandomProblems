@@ -17,6 +17,12 @@ Source: https://leetcode.com/problems/merge-two-sorted-lists/
 Source: https://leetcode.com/problems/remove-element/submissions/
 ### 7. [Remove Duplicates From Sorted Array (Easy)](Leetcode/remove-duplicates-from-sorted-array.py)
 Source: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+### 8. [Length of Last Word (Easy)](Leetcode/length-of-last-word.py)
+Source: https://leetcode.com/problems/length-of-last-word/
+### 9. [Add Binary (Easy)](Leetcode/add-binary.py)
+Source: https://leetcode.com/problems/add-binary/
+### 10. [Plus One (Easy)](Leetcode/plus-one.py)
+Source: https://leetcode.com/problems/plus-one/
 ## Codewars - 4 kyu katas
 ### 1. [Recover A String From Random Triplets](Codewars-4kyu/RecoverAStringFromRandomTriplets.py)
 Source: https://www.codewars.com/kata/53f40dff5f9d31b813000774/train/python
